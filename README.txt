@@ -1,0 +1,1 @@
+Synthetic UI evidence for PR5444. Before: upstream89ce02e7. After: fix9a0dfa3e. Both use the same held-prompt-transcript mock; no private chat or credentials. The before view places an already-ACKed user bubble below the agent reply; after recovery the canonical prompt precedes the reply.
